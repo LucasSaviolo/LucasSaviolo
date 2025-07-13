@@ -1,3 +1,7 @@
+# Olá, eu sou o Lucas 👋
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFPR. Gosto de explorar o desenvolvimento web, principalmente com tecnologias como React, Vue.js, Laravel e NestJS.
+Por aqui, compartilho meus projetos da faculdade, desafios pessoais e experiências enquanto aprendo e cresço na área da programação. Ainda estou descobrindo o que mais me atrai nesse mundo da tecnologia — e tá tudo bem com isso. 😄
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lucas.842351) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lukkkkcas) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Grouchy-Cut4767) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lucasprzybysz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/1BonVivant) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lsaviolo90@gmail.com) 
 
