@@ -1,7 +1,3 @@
-![a cat](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
-
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lucas.842351) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lukkkkcas) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Grouchy-Cut4767) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lucasprzybysz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/1BonVivant) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lsaviolo90@gmail.com) 
 
@@ -15,5 +11,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LucasSaviolo&icon=9&color=0)](https://visitcount.itsvg.in)
+
+![a cat](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
